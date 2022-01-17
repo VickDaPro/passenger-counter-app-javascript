@@ -19,12 +19,4 @@ function save() {
 }
 save()
 
-// let welcomeEl = document.getElementById("welcome-el")
-// let myName = " Vikas Jyani"
-// let greeting = "Welcome back,"
-
-// welcomeEl.innerText = greeting + myName
-// welcomeEl.innerText = welcomeEl.innerText + '👋'
-// welcomeEl.innerText += '👋'
-
 
